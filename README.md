@@ -1,5 +1,5 @@
 # pdfconvertas2up_concept
-Concept code of making 2up PDF document with OpenPDF
+Concept code of making 2up PDF document with OpenPDF / Bouncy Castle
 
 # Reference
 Conceived from this. https://stackoverflow.com/questions/12093408/pdfbox-merge-2-portrait-pages-onto-a-single-side-by-side-landscape-page
